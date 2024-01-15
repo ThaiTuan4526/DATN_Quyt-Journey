@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hero
+  - Bro
+  - Monster
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - hero
+  - objTrigger
+  - ground
+  - blockRight
+  - blockLeft
+  - obj
+  - blockBox
+  - monster
+  - decor
+  - decor2
+  - decor3
+  - ground2
+  - obj2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: bg1
+    uniqueID: 3333572755
+    locked: 0
+  - name: bg2
+    uniqueID: 3953691731
+    locked: 0
+  - name: bg3
+    uniqueID: 4014241397
+    locked: 0
+  - name: bg4
+    uniqueID: 3081113873
+    locked: 0
+  - name: ground
+    uniqueID: 119084189
+    locked: 0
+  - name: gameobj
+    uniqueID: 337057717
+    locked: 0
+  - name: hero
+    uniqueID: 1651282443
+    locked: 0
+  - name: overHero
+    uniqueID: 2844672205
+    locked: 0
+  - name: cloud
+    uniqueID: 3818896495
+    locked: 0
+  - name: GUI
+    uniqueID: 3813936489
+    locked: 0
+  - name: PH
+    uniqueID: 1358981057
+    locked: 0

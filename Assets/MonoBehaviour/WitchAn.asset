@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2af750206b8ed5d117f1e4b4d570f91d, type: 3}
+  m_Name: WitchAn
+  m_EditorClassIdentifier:
+  anNames:
+  - Run
+  - Box
+  - Cook
+  - Stir
+  - Dead
+  - Think
+  - Door
+  - See
+  - Attack
+  - Try
+  pos:
+  - {x: -0.035, y: 0}
+  - {x: -0.154, y: 0}
+  - {x: -0.077, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: -0.021, y: 0}
+  - {x: 0, y: 0}
+  - {x: -0.028, y: 0.021}
+  - {x: 0, y: 0}
+  - {x: -0.091, y: 0}
